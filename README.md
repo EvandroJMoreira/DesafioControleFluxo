@@ -42,14 +42,14 @@ java Contador
 - └── README.md
 
 ## 🧠 Conceitos Praticados
-#### Estruturas de decisão (if, else)
-#### Laços de repetição (for, while)
-#### Tratamento de exceções com try/catch
-#### Criação de exceção customizada (extends Exception)
-#### Entrada de dados com Scanner
+#### Estruturas de decisão (if, else);
+#### Laços de repetição (for, while);
+#### Tratamento de exceções com try/catch;
+#### Criação de exceção customizada (extends Exception);
+#### Entrada de dados com Scanner.
 
 ## ✅ Exemplo de Execução
 #### Digite o primeiro número: 5
 #### Digite o segundo número: 8
-Imprimindo o número: 6
-Imprimindo o número: 7
+- Imprimindo o número: 6
+- Imprimindo o número: 7
