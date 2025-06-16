@@ -36,10 +36,10 @@ java Contador
 
 ## 📂 Estrutura dos Arquivos
 
-DesafioControleFluxo/
-├── Contador.java                     // Classe principal com lógica de entrada e contagem
-├── ParametrosInvalidosException.java // Exceção personalizada para validação de parâmetros
-└── README.md
+- DesafioControleFluxo/
+- ├── Contador.java                     // Classe principal com lógica de entrada e contagem
+- ├── ParametrosInvalidosException.java // Exceção personalizada para validação de parâmetros
+- └── README.md
 
 ## 🧠 Conceitos Praticados
 #### Estruturas de decisão (if, else)
