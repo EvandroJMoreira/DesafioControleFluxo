@@ -13,10 +13,10 @@ O sistema solicita dois números inteiros via terminal:
 
 ---
 
-## 📌 Requisitos
+## 📌 Requisitos Utilizados
 
-- Java 8 ou superior
-- Terminal ou IDE (Eclipse, IntelliJ, VS Code, etc.)
+- Java 17
+- IDE Eclipse
 
 ---
 
