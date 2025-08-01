@@ -23,7 +23,7 @@ O sistema solicita dois números inteiros via terminal:
 ## ⚙️ Como Executar
 
 ### 1. Clone o repositório:
-git clone https://github.com/seu-usuario/DesafioControleFluxo.git
+git clone https://github.com/evandrojmoreira/DesafioControleFluxo.git
 cd DesafioControleFluxo
 
 ### 2. Compile os arquivos Java:
